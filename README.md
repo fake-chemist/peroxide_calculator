@@ -1,10 +1,10 @@
 # peroxide_calculator
 Chemical Calculator coding challenge for SmarterSorting 
 
-## Requirements:
+## Requiremented documents:
 ```
-Pandas
-CIRpy
+product_list.csv
+Peroxide_Calc.ipynb
 ```
 ## Environment
 ```
