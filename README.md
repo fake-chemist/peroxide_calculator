@@ -1,7 +1,7 @@
 # peroxide_calculator
 Chemical Calculator coding challenge for SmarterSorting 
 
-## Requiremented documents:
+## Required documents:
 ```
 product_list.csv
 Peroxide_Calc.ipynb
@@ -20,6 +20,10 @@ conda install pandas
 
 ```
 conda install cirpy
+```
+
+```
+conda install -n ChemCalc ipykernel
 ```
 ## Product Questions
 
