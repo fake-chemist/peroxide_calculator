@@ -30,11 +30,11 @@ conda install -n ChemCalc ipykernel
 Which of the provided formulated products meet the definition Organic Peroxide under
 CFR 173.128(a)(4)?
 
--> Products 1, 2, and 3 met the definition Organic Peroxide under CFR 173.128(a)(4)
+-> Products 1 and 2 met the definition Organic Peroxide under CFR 173.128(a)(4)
 
 Which of the provided formulated products do not meet the definition?
 
--> Product 4
+-> Product 3 and 4
 
 Which subsection under CFR 173.128(a)(4) was used to determine whether the product
 meets or does not meet the definition of an Organic Peroxide?
